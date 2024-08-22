@@ -8,7 +8,7 @@ My Mission
 
 Bruce Schneier (https://www.schneier.com/) once said while testifying to congress about the Equifax breach "...financial markets reward bad security. Given the choice between increasing their cybersecurity budget by 5%, or saving that money and taking the chance, a rational CEO chooses to save the money. Wall Street rewards those whose balance sheets look good, not those who are secure."https://www.schneier.com/essays/archives/2017/11/testimony_before_the_1.html I want to help companies generate maximum value of their cybersecurity investments by reducing risk.
 
-I want to make cybersecurity investments rational for the CEO...
+I want to make cybersecurity investments rational for the CEO... well understood by the Board, and valuable to stockholders.
 
 I currently serve on two Boards of Directors: IHE USA and SHIFT Healthcare.
 
