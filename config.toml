@@ -1,0 +1,30 @@
+baseURL = 'https://localhost/'
+languageCode = 'en-us'
+title = "Eric Heflin's Personal Web Site"
+theme = "hyde"
+#theme = "hugo-sustain"
+
+disqusShortname = "spf13"
+
+[params]
+description = "Sharing knowledge with the next generation!"
+themeColor = "theme-base-0d"  
+
+[Menus]
+  main = [
+      {Name = "My Book: Cybersecurity Guide for Boards of Directors", URL = "/pages/cybersecurity-guide-for-boards-of-directors/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/eric-heflin/"},
+      {Name = "Welcome", URL = "/posts/2024/2024-08-17-welcome/"},
+      {Name = "About", URL = "/pages/about/"},
+      {Name = "CV/Resume", URL = "/pages/eric-heflin-cv/"},
+      {Name = "Board Work", URL = "/pages/board-work/"},
+      {Name = "Blog", URL = "/posts/"},
+      {Name = "Press", URL = "/pages/eric-heflin-press/"}
+  ]
+  
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+  

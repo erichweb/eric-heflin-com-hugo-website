@@ -1,0 +1,6 @@
+/node_modules/
+/public/
+/resources/
+.hugo_build.lock
+/hugo-cookbook.pdf
+/static/uploads/unused-so-far/
