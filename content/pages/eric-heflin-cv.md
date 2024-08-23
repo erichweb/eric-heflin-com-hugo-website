@@ -116,10 +116,8 @@ date: 2024-08-19T17:13:56-05:00
 - Dec-2015    -    Presenter, "Patient Matching Decoded", public webinar
 - Aug-2015    -    Presenter, IHE International webinar, "Healthcare Provider Directories"
 - Aug-2015    -    Presenter, Department of Defense/Veterans Affairs Interagency Program Office, Health Interoperability Enterprise Architecture Work Group Technical Forum "eHealth Exchange – Next Generation CDA Content Interoperability Approaches"
-- Mar-2015    -    HIMSS15:  Virtual Planning Meeting (Day 1) (Mar 5 12:00 PM MST)
+- Mar-2015    -    HIMSS15:  Virtual Planning Meeting (Day 1) (Mar 5 12:00 PM MST)
 - Feb-2015    -    Presenter, Veteran Affairs, "Healthcare Provider Directory"
-- Feb-2015    -    presos
-- Feb-2014    -    Eric preso 12:30 to 1pm local time I think
 - May-2013    -    Co-Presenter, "Value of IHE Profiles- Designing- Selecting and Building an HIE"
 - May-2013    -    TMA HIE CME Presentation Planning Meeting
 - Oct-2012    -    Mon 10/15/2012 TN HIMSS speech
@@ -248,8 +246,8 @@ date: 2024-08-19T17:13:56-05:00
 - Jun-2019    -    Presenter, ONC's Validated Healthcare Directory Implementation Workshop, "The Sequoia Project Healthcare Directory, Overview and Lessons Learned"
 - Jul-2017    -    Invited SME, Pew Charitable Trusts, Advancing a National Strategy for Patient Matching roundtable
 - Jan-2010    -    Co-Author and Workshop Organizer, IHE International Mobile Health Documents (MHD) USA standard
-- May-2014    -    Thu 5/29/2014 
-- May-2014    -    Wed 5/28/2014 HPD Deep Dive Call --Presentations to eHEX and THSA  (Eric Heflin)   (R1)
+- May-2014    -    Thu 5/29/2014 
+- May-2014    -    Wed 5/28/2014 HPD Deep Dive Call --Presentations to eHEX and THSA  (Eric Heflin)   (R1)
 
 **Awards and Recognition**
 -    Inaugural Jolt Product Excellence & Productivity Awards, Utilities category, "Productivity Award: Install 3.05 (Knowledge Dynamics)"
