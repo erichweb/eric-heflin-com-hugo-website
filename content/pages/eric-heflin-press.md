@@ -26,8 +26,7 @@ HealthIT.gov Frequently Asked Questions
 https://www.healthit.gov/faq/what-ehealth-exchange
 
 
-eHealth Exchange Launches Incentive Program for Exchanging Public Health Data
-Health Information Exchanges and State and Local Public Health Agencies Are Eligible for Financial Perks for Modernizing the Exchange of Public Health Information
+eHealth Exchange Launches Incentive Program for Exchanging Public Health Data Health Information Exchanges and State and Local Public Health Agencies Are Eligible for Financial Perks for Modernizing the Exchange of Public Health Information
 https://www.kxan.com/business/press-releases/globenewswire/9036771/ehealth-exchange-launches-incentive-program-for-exchanging-public-health-data/
 
 
