@@ -25,6 +25,13 @@ Heflin (Sequoia).pdf
 HealthIT.gov Frequently Asked Questions 
 https://www.healthit.gov/faq/what-ehealth-exchange
 
+***Healthcare IT Today***
+
+FDA FHIR Pilot Automates Adverse Events Reporting and Validation with Cedars-Sinai and the VA Through eHealth Exchange
+
+https://www.healthcareittoday.com/2024/09/20/fda-fhir-pilot-automates-adverse-events-reporting-and-validation-with-cedars-sinai-and-the-va-through-ehealth-exchange/
+
+***KXAN TV***
 
 eHealth Exchange (https://ehealthexchange.org) Launches Incentive Program for Exchanging Public Health Data Health Information Exchanges and State and Local Public Health Agencies Are Eligible for Financial Perks for Modernizing the Exchange of Public Health Information
 https://www.kxan.com/business/press-releases/globenewswire/9036771/ehealth-exchange-launches-incentive-program-for-exchanging-public-health-data/
